@@ -1,20 +1,20 @@
 {
-  "businessName": "Business Name",
+  "businessName": "Guerrero Roofing LLC",
   "establishedYear": "2011",
   "phone": {
-    "formatted": "(000) 000-0000",
-    "raw": "0000000000"
+    "formatted": "(601) 297-8930",
+    "raw": "6012978930"
   },
   "location": {
-    "cityState": "City, ST"
+    "cityState": "Petal, MS"
   },
   "recentWorkCities": [
-    "City 1",
-    "City 2",
-    "City 3"
+    "Petal",
+    "Hattiesburg",
+    "Sumrall"
   ],
   "reviewCities": [
-    "City 1",
-    "City 2"
+    "Petal",
+    "Hattiesburg"
   ]
 }
